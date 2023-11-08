@@ -47,7 +47,7 @@
 				<configuration>
 			 
 				   <installProject>false</installProject>
-				   <verbose>false</verbose>
+				   <verbose>true</verbose>
 				   <keepBranch>true</keepBranch>
 				   <skipTestProject>true</skipTestProject>
 			 
