@@ -19,7 +19,7 @@
    		<connection>scm:git:git@github.com:igmfilho/maven-release-test.git</connection>
    		<url>scm:git:git@github.com:igmfilho/maven-release-test.git</url>
    		<developerConnection>scm:git:git@github.com:igmfilho/maven-release-test.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>maven-release-test-0.0.1-hat-SNAPSHOT</tag>
   </scm>
 	<dependencies>
 		<dependency>
@@ -57,7 +57,7 @@
 					  <featureBranchPrefix>feature/</featureBranchPrefix>
 					  <releaseBranchPrefix>release/</releaseBranchPrefix>
 					  <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
-					  <versionTagPrefix></versionTagPrefix>
+					  <versionTagPrefix />
 					  <origin>origin</origin>
 				   </gitFlowConfig>
 				   <commitMessages>
